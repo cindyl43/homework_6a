@@ -1,4 +1,4 @@
-/* Style the search box inside the navigation bar */
+/* Style of the search box inside the navigation bar */
 .wrapper [type=text] {
   float: right;
   padding: 6px;
@@ -42,6 +42,15 @@
 
 }
 
+/* indicator of the quantity (preset as 1 for now) */
+.indicator {
+    position: absolute;
+    top: 55px;
+    left: 91.8%;
+    width: 35px;
+
+}
+
 #logo {
   width: 18%;
   height: auto;
@@ -53,10 +62,39 @@
 .back {
     position: absolute;
     top:  150px;
-    left: 10%;
+    left: 8%;
 }
 
+/* Style of the content sections */
 
+.rewards {
+    position: absolute;
+    top: 25%;
+    left: 8%;
+
+}
+
+.checkout {
+    position: absolute;
+    top: 25%;
+    left: 82%;
+
+}
+
+.shopping {
+    position: absolute;
+    top:44%;
+    left:8%;
+
+}
+
+.similar {
+    position: absolute;
+    top:83%;
+    left:8%;
+/* black space in bottom of the page*/
+    padding-bottom: 70px;
+}
 
 
 
