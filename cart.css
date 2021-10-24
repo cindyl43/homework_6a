@@ -26,7 +26,6 @@
 
 }
 
-
 .login {
     position: absolute;
     top: 55px;
@@ -43,7 +42,6 @@
 
 }
 
-
 #logo {
   width: 18%;
   height: auto;
@@ -51,3 +49,19 @@
   padding-top: 10px;
   padding-bottom: 20px;
 }
+
+.back {
+    position: absolute;
+    top:  150px;
+    left: 10%;
+}
+
+
+
+
+
+
+
+
+
+
