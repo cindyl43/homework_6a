@@ -62,7 +62,7 @@
 .back {
     position: absolute;
     top:  150px;
-    left: 8%;
+    left: 10%;
 }
 
 /* Style of the content sections */
@@ -70,30 +70,30 @@
 .rewards {
     position: absolute;
     top: 25%;
-    left: 8%;
+    left: 10%;
 
 }
 
 .checkout {
     position: absolute;
     top: 25%;
-    left: 82%;
+    left: 80%;
 
 }
 
 .shopping {
     position: absolute;
-    top:44%;
-    left:8%;
+    top:42.7%;
+    left:10%;
 
 }
 
 .similar {
     position: absolute;
-    top:83%;
-    left:8%;
+    top:78%;
+    left:10%;
 /* black space in bottom of the page*/
-    padding-bottom: 70px;
+    padding-bottom: 50px;
 }
 
 
