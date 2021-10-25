@@ -36,7 +36,7 @@
 
 }
 
-.cart {
+#cart {
     position: absolute;
     top: 55px;
     left: 90%;
@@ -44,6 +44,14 @@
 
 }
 
+/* indicator of the quantity (preset as 1 for now) */
+#indicator {
+    position: absolute;
+    top: 55px;
+    left: 91.8%;
+    width: 15px;
+    height: 15px;
+}
 
 #logo {
   width: 18%;
