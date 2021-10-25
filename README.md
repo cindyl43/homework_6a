@@ -15,7 +15,7 @@
    -- click on the back button to go back to the product detail page
 
 
-## Credits
+# Credits
 Add to cart functions learned from: tutorial of https://codyhouse.co/gem/add-to-cart-interaction
 Icon: https://www.figma.com/community/file/878585965681562011/Material-Design-Icons
 
