@@ -8,36 +8,39 @@ function addItemToCart() {
 
 /*** Change color function***/
 function greenFocus() {
-  var img = document.createElement('img1');
-  img.src = 'gGallery.jpg';
-  img.id = "gallery";
-  document.getElementById('color').appendChild(img);
-
+  document.getElementById("green").src = "green_S.jpg";
+  document.getElementById("pink").src = "pink.jpg";
+  document.getElementById("blue").src = "blue.jpg";
+  document.getElementById("grey").src = "grey.jpg";
   document.getElementById("gallery").src = "gGallery.jpg";
-  document.getElementById('large').src = "gLarge.jpg";
+  document.getElementById("large").src = "gLarge.jpg";
 }
 
 function pinkFocus() {
-  var pink_S = document.createElement('pink_S');
-  pink_S.src = 'pink_S.jpg';
-  pink_S.id = "pink_S";
-  document.getElementById('color').appendChild(pink_S);
-
   document.getElementById("green").src = "green.jpg";
+  document.getElementById("pink").src = "pink_S.jpg";
   document.getElementById("blue").src = "blue.jpg";
   document.getElementById("grey").src = "grey.jpg";
   document.getElementById("gallery").src = "pGallery.jpg";
-  document.getElementById('large').src = "pLarge.jpg";
+  document.getElementById("large").src = "pLarge.jpg";
 }
 
 function blueFocus() {
+  document.getElementById("green").src = "green.jpg";
+  document.getElementById("pink").src = "pink.jpg";
+  document.getElementById("blue").src = "blue_S.jpg";
+  document.getElementById("grey").src = "grey.jpg";
   document.getElementById("gallery").src = "bGallery.jpg";
-  document.getElementById('large').src = "bLarge.jpg";
+  document.getElementById("large").src = "bLarge.jpg";
 }
 
 function greyFocus() {
+  document.getElementById("green").src = "green.jpg";
+  document.getElementById("pink").src = "pink.jpg";
+  document.getElementById("blue").src = "blue.jpg";
+  document.getElementById("grey").src = "grey_S.jpg";
   document.getElementById("gallery").src = "greyGallery.jpg";
-  document.getElementById('large').src = "greyLarge.jpg";
+  document.getElementById("large").src = "greyLarge.jpg";
 }
 
 
