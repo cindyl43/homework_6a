@@ -20,7 +20,9 @@ Add to cart functions learned from: tutorial of https://codyhouse.co/gem/add-to-
 Icon: https://www.figma.com/community/file/878585965681562011/Material-Design-Icons
 
 Pink pillow pictures: https://www.amazon.com/Batmerry-Pillows-Decorative-Chinese-Pillowcase/dp/B07MK8GW9W
-Green pillow picture:https://www.wayfair.com/decor-pillows/pdp/east-urban-home-spring-light-green-throw-pillow-etrc8358.html
+Green pillow picture: https://www.wayfair.com/decor-pillows/pdp/east-urban-home-spring-light-green-throw-pillow-etrc8358.html
+Blue pillow picture: https://www.wayfair.com/decor-pillows/pdp/topfinel-square-velvet-pillow-cover-tpfi1003.html?piid=50969420%2C50969421
+Grey pillow picture: https://www.wayfair.com/decor-pillows/pdp/dakota-fields-gerdes-metallic-geo-embroidered-square-pillow-cover-insert-trpt4887.html?piid=26601882
 
 More pillor pictures: https://www.ravelry.com/patterns/library/round-pillow-pouf--potomac-pillow
 https://www.pricepulse.app/home-brilliant-decorative-throw-pillows-for-couch_us_10933997
@@ -31,5 +33,6 @@ https://www.made-in-china.com/showroom/doonel/product-detailAKGxVOgPbXrj/China-D
 https://www.thespruce.com/best-throw-pillows-4164180
 https://rwguild.com/products/the-good-shepherd-60cmx60cmx15cm-floor-cushion?variant=30388203716711
 https://homedecorbliss.com/decorate-gray-couch/
+
 
 
